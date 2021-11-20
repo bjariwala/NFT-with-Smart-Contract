@@ -1,4 +1,4 @@
-## Project_3_Challenge - Created Art NFT Marketplace with Smart Contract
+## Created Art NFT Marketplace with Smart Contract
 
 Created Non-Fungible tokens using ERC1155 standard and deployed on the Ethereum Blockchain. The NFT integrates with the Moralis and renders on the OpenSea testnet Marketplace. 
 
